@@ -7,5 +7,6 @@ def nyc_pigeon_organizer(data)
         if pigeons_hash.has_key?(name)
           pigeons_hash[name] = {}
         end
-
+      end
+    end
 end
